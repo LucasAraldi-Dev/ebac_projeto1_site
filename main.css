@@ -2,12 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-shadow: none;
 }
 
 body ,
 input ,
 textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Cinzel', serif;
 }
 
 header {
@@ -20,7 +21,7 @@ section h2,
 section h3,
 form button,
 footer{
-    font-family: 'Bungee', cursive;
+    font-family: 'Press Start 2P', cursive;
     font-weight: normal;
 }
 
